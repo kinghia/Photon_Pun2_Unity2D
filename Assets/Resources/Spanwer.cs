@@ -9,8 +9,8 @@ public class Spanwer : MonoBehaviour
 
     void Start()
     {
-        GameObject ToasterPlayer = PhotonNetwork.Instantiate("ToasterPlayer", new Vector3(Random.Range(-8, 8), -1.5f, 0), Quaternion.identity);
-        ToasterPlayer.GetComponent<Player>().joystick = joystick;
-        ToasterPlayer.GetComponent<Player>().mark.SetActive(true);
+        GameObject DemonPlayer = PhotonNetwork.Instantiate("DemonPlayer", new Vector3(Random.Range(-8, 8), -1.5f, 0), Quaternion.identity);
+        DemonPlayer.GetComponent<Player>().joystick = joystick;
+        DemonPlayer.GetComponent<Player>().mark.SetActive(true);
     }
 }
