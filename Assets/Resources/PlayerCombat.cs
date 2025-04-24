@@ -16,12 +16,7 @@ public class PlayerCombat : MonoBehaviour
 
     void Update()
     {
-        
-    }
-
-    public void Down()
-    {
-        if (GetComponent<PhotonView>().IsMine == true)
+        if (Input.GetKeyDown(KeyCode.F))
         {
             if (Time.time >= nextAttackTime)
             {
@@ -29,6 +24,11 @@ public class PlayerCombat : MonoBehaviour
                 nextAttackTime = Time.time + 1f / attackRate;
             }
         }
+    }
+
+    public void Down()
+    {
+        
     }
 
     void AttackNormal()
