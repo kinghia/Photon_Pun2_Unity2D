@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: 6e8268b50ad511d4d8faa3c360f8b491
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7534623144908021745
+    second: Mobile - Adventure Bar Story - Battle Backgrounds_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5187
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffdda484db509860800000000000000
+      internalID: 7534623144908021745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4914
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea52d99992ffdc74a89bcbb6fef0d893
+      internalID: -1641770806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4641
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dba7a8b879400408af85e8a947e759
+      internalID: -922603660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4368
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f8e40495663024ca7cc910708afd73
+      internalID: -1298635034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4095
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb6c210261044444afa138ec5446390
+      internalID: 53579237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3822
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad4bfe12909e2e468a0a97b5046b85f
+      internalID: 798413461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3549
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26adff6eeca34747ab630f5edd94221
+      internalID: -1487037011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3276
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80ae57cb3215684589763027880f398
+      internalID: -1180053974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3003
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a94961883d5c36439ab90f316a7fe54
+      internalID: -1671231493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2730
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a60e527186296446a1cc90a9902fa58
+      internalID: 157788306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2457
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0260fe050b65541afa2257e1cd528f
+      internalID: -1257219331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2184
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5f200cd01780048bf75c3de8ed1f07
+      internalID: 384896503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1911
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb580eeafff32047be1d548b3215ba5
+      internalID: -1963808675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1638
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d47216d9ba4f5444a20d16c8996fec1
+      internalID: 148715536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1365
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3c7c47dd63fb74b89f25134bfb3015
+      internalID: -537150295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1092
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ba1b502d9b37b49866b812479519a4
+      internalID: 223770952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d458ea16a38260245870490aa22c10c0
+      internalID: 620198560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d3f927771e0a34d8780bfda3314575
+      internalID: 1224128114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdb65fa23d57cb44840a956ae6213c3
+      internalID: -52781026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Battle Backgrounds_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a697beaeaef3945b7e6975b3ed1030
+      internalID: -1813876116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4f0a32be3ec33c44ba6466b8be10cde4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Adventure Bar Story - Battle Backgrounds_0: 7534623144908021745
+      Mobile - Adventure Bar Story - Battle Backgrounds_1: -1641770806
+      Mobile - Adventure Bar Story - Battle Backgrounds_10: -1257219331
+      Mobile - Adventure Bar Story - Battle Backgrounds_11: 384896503
+      Mobile - Adventure Bar Story - Battle Backgrounds_12: -1963808675
+      Mobile - Adventure Bar Story - Battle Backgrounds_13: 148715536
+      Mobile - Adventure Bar Story - Battle Backgrounds_14: -537150295
+      Mobile - Adventure Bar Story - Battle Backgrounds_15: 223770952
+      Mobile - Adventure Bar Story - Battle Backgrounds_16: 620198560
+      Mobile - Adventure Bar Story - Battle Backgrounds_17: 1224128114
+      Mobile - Adventure Bar Story - Battle Backgrounds_18: -52781026
+      Mobile - Adventure Bar Story - Battle Backgrounds_19: -1813876116
+      Mobile - Adventure Bar Story - Battle Backgrounds_2: -922603660
+      Mobile - Adventure Bar Story - Battle Backgrounds_3: -1298635034
+      Mobile - Adventure Bar Story - Battle Backgrounds_4: 53579237
+      Mobile - Adventure Bar Story - Battle Backgrounds_5: 798413461
+      Mobile - Adventure Bar Story - Battle Backgrounds_6: -1487037011
+      Mobile - Adventure Bar Story - Battle Backgrounds_7: -1180053974
+      Mobile - Adventure Bar Story - Battle Backgrounds_8: -1671231493
+      Mobile - Adventure Bar Story - Battle Backgrounds_9: 157788306
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

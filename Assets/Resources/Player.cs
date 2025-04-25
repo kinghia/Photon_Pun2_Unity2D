@@ -12,6 +12,8 @@ public class Player : MonoBehaviour
     public GameObject canvasName;
     public TMP_Text username;
 
+    public bool isFacingRight;
+
     [SerializeField] float moveSpeed = 5f;
 
     void Start()
@@ -28,14 +30,16 @@ public class Player : MonoBehaviour
 
             rb.MovePosition((Vector2)transform.position + moveInput * moveSpeed * Time.deltaTime);
 
-            if ( moveInput.x < 0)
+            if (moveInput.x > 0)
             {
-                sr.flipX = true;
+                transform.rotation = Quaternion.Euler(0f, 0f, 0f);   
+                isFacingRight = true;     
             }
-            else if (moveInput.x > 0)
+            else if (moveInput.x < 0)
             {
-                sr.flipX = false;
-            }  
+                transform.rotation = Quaternion.Euler(0f, 180f, 0f);
+                isFacingRight = false;
+            }
             anim.SetFloat("isRun", moveInput.sqrMagnitude);
         }
     }
